@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse
+	xmlns="http://www.example.org/course-details"
+	xsi:schemaLocation="http://www.example.org/course-details course-details.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CourseDetails>
+		<id>12</id>
+		<Name>Devops</Name>
+		<Description>You would learn basics of Devops</Description>
+	</CourseDetails>
+</GetCourseDetailsResponse>

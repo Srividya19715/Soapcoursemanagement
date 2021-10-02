@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmlns="http://www.example.org/course-details"
+xsi:schemaLocation="http://www.example.org/course-details course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+      <id>12</id> <!-- only numbers -->
+</GetCourseDetailsRequest>
